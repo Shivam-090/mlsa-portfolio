@@ -27,7 +27,7 @@ const siteProps = {
   name: "Shivam",
   title: "Microsoft Learn Student Ambassador",
   email: "shivam.goyal@studentambassador.com",
-  gitHub: "Shivam-090",
+  gitHub: "ShivamGoyal03",
   instagram: "",
   linkedIn: "shivam2003",
   medium: "",
